@@ -1,7 +1,3 @@
-#!/bin/bash
-
-# Create README.md file
-cat <<EOL > README.md
 # ASSIGNMENT 2: NETWORK DESIGN AND SIMULATION  
 ### FOR A CRITICAL LARGE HOSPITAL
 
@@ -12,4 +8,3 @@ This project is a major assignment for the **Computer Networks** course, Semeste
 - **Võ Thanh Tâm** - Student ID: 2213046  
 EOL
 
-echo "README.md file has been created successfully."
