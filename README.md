@@ -5,5 +5,3 @@ This project is a major assignment for the **Computer Networks** course, Semeste
 ## Team Members
 - **Lê Văn Anh Khoa** - Student ID: 2211605  
 - **Võ Thanh Tâm** - Student ID: 2213046  
-EOL
-
